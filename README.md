@@ -10,12 +10,13 @@
 - Material UI
 - axios API
 - React-Dom
+- themoviedb API
 
 ## Features
 
 - Video Playback Feature
 - Neat and clean UI
-- themoviedb API
+
 
 ## Steps to run in your machine
 
